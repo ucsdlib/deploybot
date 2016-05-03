@@ -5,6 +5,12 @@
     "repository": "ucsdlib/dmr",
     "environments": ["pontos","staging","production"]
   },
+  "damspas": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "ucsdlib/damspas",
+    "environments": ["pontos"]
+  },
   "billing-ill": {
     "provider": "capistrano",
     "auto_merge": false,
