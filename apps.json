@@ -9,7 +9,7 @@
     "provider": "capistrano",
     "auto_merge": false,
     "repository": "ucsdlib/damspas",
-    "environments": ["pontos"]
+    "environments": ["pontos","staging","production"]
   },
   "billing-ill": {
     "provider": "capistrano",
